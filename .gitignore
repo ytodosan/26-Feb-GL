@@ -535,6 +535,4 @@ CrtLocalizationDesigner/Files/Directory.Build.targets
 
 
 CrtFilterAgent
-CrtTechUserCreatioMaintenance/Files/CrtTechUserCreatioMaintenance.csproj
-CrtTechUserCreatioMaintenance/Files/Directory.Build.props
-CrtTechUserCreatioMaintenance/Files/Directory.Build.targets
+CrtTechUserCreatioMaintenance
