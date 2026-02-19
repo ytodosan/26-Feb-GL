@@ -1,0 +1,35 @@
+﻿{
+  "Descriptor": {
+    "UId": "54d71e97-da76-a5d8-577b-c6549a5aaee7",
+    "Name": "UsrTrafficLight",
+    "ModifiedOnUtc": "\/Date(1771519601000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "b84b91ad-3308-4d01-b03a-13e051fac099",
+      "Name": "UsrTrafficLight"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "6e7cfa93-d294-80e6-7317-1b550774a657",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrOrder",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "ea12c072-c4af-16c2-20a9-e24b82efb3d5",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrName",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      }
+    ]
+  }
+}
